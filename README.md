@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Hasini 👋
 
-<!--
-**Hasini-pala/Hasini-pala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year undergraduate student at the **University of California, Riverside (UCR)**, pursuing a major in **Microbiology** with a minor in **Data Science**. My academic and professional goal is to bridge the gap between biological systems and computational analysis, ultimately aiming for graduate research in Biomedical Data Science.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Mastering Python for data science and building a foundational understanding of bioinformatics through experiences and projects.
+- 🌱 **Learning:** `python`, `SQL`, `R` and biological sequence analysis tools like `Biopython`.
+- 💬 **Ask me about:** Microbiology coursework, Data Science minor, college student life, or my transition into computational biology from the premed pathway. 
+- 📫 **LinkedIn:** [hasini-palaparthy](https://www.linkedin.com/in/hasini-palaparthy-07aaa2353/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+* **Programming Languages:** Python, SQL
+* **Data Science Tools:** Jupyter Notebooks, Git/GitHub
+* **Core Sciences:** Molecular Biology, Genetics, Organic Chemistry, Physics, Microbiology
